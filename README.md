@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhinAhri12
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js and Ruby On Rails
+- 🌱 I’m currently learning Vue Js and Ruby On Rails
 - 💞️ I’m looking to collaborate on any projects
 - 
 
